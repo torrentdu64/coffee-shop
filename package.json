@@ -1,6 +1,9 @@
 {
   "name": "coffee-shop",
   "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@rails/webpacker": "4.2.2",
     "bootstrap": "^4.4.1",
